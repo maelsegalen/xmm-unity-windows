@@ -7,7 +7,7 @@ You can find the original project [here](https://github.com/ircam-rnd/xmm-unity)
 
 #### Compilation
 
-Open "XMM_DLL.vcxproj" with Visual Studio and use the basic DLL compiling option 
+Open "libXmmEngine.vcxproj" with Visual Studio and use the basic DLL compiling option 
 for Win x64 in order to build the .dll.
 
 #### Usage
